@@ -1,0 +1,9 @@
+Building MACHETECOIN
+
+See doc/readme-qt.rst for instructions on building MACHETECOIN-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MACHETECOIN.
+
+See doc/build-*.txt for instructions on building MACHETECOIN,
+the intended-for-services, no-graphical-interface, reference
+implementation of MACHETECOIN.

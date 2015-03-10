@@ -1,0 +1,3 @@
+MACHETECOIN (MTC)
+
+A project of MACHETECOIN.
